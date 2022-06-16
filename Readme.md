@@ -4,7 +4,7 @@ sebuah program CRUD (create, read, update, delete) sederhana yang dibuat dengan 
 
 ### cara menjalankan program
 
-buka phpmyadmin di web server local milik kalian terlebih dahulu. lalu import file phpdasar.sql. ketika file tersebut di import, akan keluar isi tabel dengan nama mahasiswa. dimana tabel mahasiswa berisikan structure id, nama, nrp, email, jurusan dan gambar. jika file sudah di import, tinggal kalian jalankan saja programnya.
+buka **phpmyadmin** di web server local milik kalian terlebih dahulu. lalu **import file phpdasar.sql**. ketika file tersebut di import, akan keluar isi tabel dengan nama **mahasiswa**. dimana **tabel mahasiswa berisikan structure id, nama, nrp, email, jurusan dan gambar**. jika file sudah di import, tinggal kalian jalankan saja programnya.
 
 ### dibuat dengan berikut
 
