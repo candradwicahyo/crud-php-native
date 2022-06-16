@@ -25,6 +25,4 @@ buka **phpmyadmin** di web server local milik kalian terlebih dahulu. lalu **imp
 
 ![result](https://github.com/candradwicahyo/crud-php-native/blob/master/image.jpg)
 
-[tekan link ini untuk mencoba program ini](https://candradwicahyo.github.io/crud-php-native)
-
 > dibuat oleh **candra dwi cahyo**
